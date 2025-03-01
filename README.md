@@ -57,7 +57,7 @@ svelte-search/
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/svelte-typesense-prototype.git
+git clone https://github.com/SantiagoFleitasIbarra/svelte-typesense-prototype.git
 cd svelte-typesense-prototype
 ```
 
